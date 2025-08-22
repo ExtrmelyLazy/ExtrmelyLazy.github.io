@@ -6,3 +6,12 @@ h1 {
 p {
   background-color: none
 }
+a {
+  dispaly: inline-bolck;
+  padding: 8px 16px;
+  background: #2def90;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 4px;
+  border: none;
+}
