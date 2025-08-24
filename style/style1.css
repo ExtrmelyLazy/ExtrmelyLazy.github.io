@@ -13,4 +13,11 @@ p.duanluo {
   opacity: 0.5;
   color: black;
 }
-  
+/*呜呜呜，这个按钮到底能不能行*/  
+a.an {
+  background-color: #4caf50;
+  color: #ffffff;
+  border: 8px solid: #45a049;
+  border-radius: 1px;
+}
+/*拜托一定要能行！！！*/
