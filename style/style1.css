@@ -19,9 +19,10 @@ a.an {
   color: #ffffff;
   border: 1px solid: #45a049;
   border-radius: 8px;
-  height: clamp (32px,4vw,40px);
-  weight: auto;
-  padding: 0 1.2em;
+  height: 44px;
+  weight: 100px;
+  padding: 16px;
 }
 /*拜托一定要能行！！！*/
 /*边框和圆角弄反了呜呜呜*/
+/*因为不知道1像素是多大，大小反反复复调了好几次qwq*/
