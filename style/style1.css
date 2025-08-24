@@ -19,8 +19,9 @@ a.an {
   color: #ffffff;
   border: 1px solid: #45a049;
   border-radius: 8px;
-  height: 32px;
-  weight: 90px;
+  height: clamp (32px,4vw,40px);
+  weight: auto;
+  padding: 0 1.2em;
 }
 /*拜托一定要能行！！！*/
 /*边框和圆角弄反了呜呜呜*/
